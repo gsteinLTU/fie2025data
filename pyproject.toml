@@ -1,0 +1,18 @@
+[project]
+name = "fie2025data"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "ipywidgets>=8.1.8",
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.4",
+    "pandas>=2.3.3",
+    "pdfplumber>=0.11.7",
+    "pip>=25.3",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "spacy>=3.8.7",
+]
